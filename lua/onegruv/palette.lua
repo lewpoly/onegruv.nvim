@@ -5,6 +5,7 @@ local colors = {
   alt_fg = "#8b92a8",
   alt_bg = "#2b313b",
   line = "#2c323d",
+  tree_line = "#4d525a",
   dark_gray = "#3e3e3e",
   gray = "#808080",
   context = "#60646c",
