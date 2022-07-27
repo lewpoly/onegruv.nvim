@@ -1,10 +1,11 @@
 local colors = {
   fg = "#d4d4d4",
   -- bg = "#25282f",
-  -- bg = "#2e3440",
   bg = "#2e3440",
+  -- bg = "#2a2e38",
   alt_fg = "#8b92a8",
-  alt_bg = "#2b313b",
+  -- alt_bg = "#2b313b",
+  alt_bg = "#2a2e38",
   line = "#2c323d",
   tree_line = "#3c414a",
   dark_gray = "#3e3e3e",
