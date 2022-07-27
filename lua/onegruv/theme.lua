@@ -329,11 +329,11 @@ theme.set_highlights = function()
   hl(0, "TelescopePreviewHyphen", { fg = c.red, bg = "NONE" })
 
   -- NvimTree
-  hl(0, "NvimTreeFolderIcon", { fg = c.light_gray, bg = c.alt_bg })
+  hl(0, "NvimTreeFolderIcon", { fg = c.light_gray, bg = "NONE" })
   hl(0, "NvimTreeIndentMarker", { fg = c.context, bg = "NONE" })
   hl(0, "NvimTreeNormal", { fg = c.fg, bg = c.alt_bg })
   hl(0, "NvimTreeVertSplit", { fg = c.gray, bg = c.bg })
-  hl(0, "NvimTreeFolderName", { fg = c.cyan, bg = c.alt_bg })
+  hl(0, "NvimTreeFolderName", { fg = c.cyan, bg = "NONE" })
   hl(0, "NvimTreeOpenedFolderName", { fg = c.cyan, bg = "NONE", bold = true, italic = true })
   hl(0, "NvimTreeEmptyFolderName", { fg = c.gray, bg = "NONE", italic = true })
   hl(0, "NvimTreeGitIgnored", { fg = c.gray, bg = "NONE", italic = true })
